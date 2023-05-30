@@ -6,8 +6,6 @@ def safe_print_division(a, b):
     try:
         div = a / b
 
-    #master of py#
-    #this is too easy#
     except (TypeError, ZeroDivisionError):
         div = None
     finally:
