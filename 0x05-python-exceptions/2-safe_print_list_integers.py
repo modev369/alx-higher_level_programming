@@ -7,6 +7,10 @@ def safe_print_list_integers(my_list=[], x=0):
         my_list (list): The list to print elements from.
         x (int): The number of elements of my_list to print.
 
+    #this is too easy#
+
+    #master python#
+
     Returns:
         The number of elements printed.
     """
