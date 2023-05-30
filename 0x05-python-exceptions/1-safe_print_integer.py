@@ -6,7 +6,7 @@ def safe_print_integer(value):
 
     Args:
         value (int): The integer to print.
-        
+
         #starting to master this already#
 
     Returns:
